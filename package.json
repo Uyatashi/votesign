@@ -1,0 +1,15 @@
+{
+  "name": "votesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ot-ring-signatures": "git+ssh://git@github.com/visus-network/ot-ring-signature.git"
+  }
+}
